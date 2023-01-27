@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "weather-app-e2453"
+    "default": "weather-app-dev-15263",
+    "dev": "weather-app-dev-15263"
   }
 }
